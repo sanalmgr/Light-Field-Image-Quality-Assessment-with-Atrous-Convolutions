@@ -3,5 +3,5 @@ Epipolar plane image (EPI) is a 2D representation of a Light Field image (LFI). 
 
 ## Code:
 ## Training Model:
-1. Prepare the horizontal and vertical EPIs using the code https://bit.ly/3Da8fB6.
+1. Prepare the horizontal and vertical EPIs using the code Coming Soon.
 2. To train the model, import functions from training_model.py file, and pass the parameters accordingly.
