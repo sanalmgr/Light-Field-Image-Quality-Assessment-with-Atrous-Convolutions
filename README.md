@@ -4,4 +4,4 @@ In this work, we propose a novel no-reference LF-IQA method that takes into acco
 ## Code:
 ## Training Model:
 1. Prepare the horizontal and vertical EPIs using the method MultiEPL https://bit.ly/3Da8fB6.
-2. To train the model, import functions from training_model.py file, and pass the parameters accordingly.
+2. To train the model, import functions from train_model.py file, and pass the parameters accordingly.
